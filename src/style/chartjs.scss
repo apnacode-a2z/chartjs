@@ -1,0 +1,17 @@
+body{
+    // background-color: dimgray;
+}
+.showchart{
+    
+    .showchart-button{
+        display: flex;
+        .select-button{
+            width: 15%;
+            margin: 3% auto;
+        }
+    }
+    .chartjs-render-monitor{
+        height: 300px;
+    }
+    
+}
